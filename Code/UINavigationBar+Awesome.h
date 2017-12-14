@@ -9,8 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface UINavigationBar (Awesome)
-- (void)lt_setBackgroundColor:(UIColor *)backgroundColor;
-- (void)lt_setElementsAlpha:(CGFloat)alpha;
-- (void)lt_setTranslationY:(CGFloat)translationY;
-- (void)lt_reset;
+- (void)wang_setBackgroundColor:(UIColor *)backgroundColor;
+- (void)wang_setElementsAlpha:(CGFloat)alpha;
+- (void)wang_setTranslationY:(CGFloat)translationY;
+- (void)wang_reset;
 @end
