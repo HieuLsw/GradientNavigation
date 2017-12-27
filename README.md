@@ -7,6 +7,3 @@
 * 其它你想要的效果组合
 * iOS11之后‘titleView’这个key在当前扩展层级取不到东西。会崩溃。暂时不要使用。
 * 有问题可以在issue留言
-
-[![hdjBR.th.png](https://s1.ax1x.com/2017/11/28/hdjBR.th.png)](https://imgse.com/i/hdjBR) 
-[![hdXu9.th.png](https://s1.ax1x.com/2017/11/28/hdXu9.th.png)](https://imgse.com/i/hdXu9)
